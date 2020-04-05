@@ -31,4 +31,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.Пользователи</catalogs>
+  <documents>Document.Документ1</documents>
 </mdclass:Configuration>
