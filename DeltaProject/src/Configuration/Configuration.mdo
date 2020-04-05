@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1faac1a7-2fdc-432b-8706-5ff69d3dffd3">
+  <name>DeltaProject</name>
+  <synonym>
+    <key>ru</key>
+    <value>Delta project</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="854f1960-a1e9-4c19-8cae-ff7dc3059b64"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="44d6162d-13c0-4f85-8e37-5b6f91f7798f"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="49f829b8-cde7-4e72-a778-81a692cc6d79"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="e6ee734a-e5d5-4be9-83ba-9c14016f596a"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="a9b016e8-813b-47f1-ba5d-bf71291f56d1"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="c7c88ffc-f340-4a48-b356-53ddb0d8d484"/>
+  <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <usePurposes>MobileDevice</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.14</compatibilityMode>
+  <languages uuid="35deb221-6aa5-4ab2-9863-c639bfaade0a">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <catalogs>Catalog.Пользователи</catalogs>
+</mdclass:Configuration>
